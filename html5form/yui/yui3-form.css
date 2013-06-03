@@ -1,0 +1,5 @@
+.txt,textarea{border:1px #bbbbb9 solid;padding:6px 4px;background:url(http://a.tbcdn.cn/app/uc/img/input.png) left top;position:relative} 
+.txt,textarea,select{box-shadow:none}
+input{vertical-align:middle}
+.err{border:1px red solid}
+.place{color:#ccc}

@@ -1,0 +1,9 @@
+/* help tips */
+.help-txt-detail b,.hp-price{background: url("http://img03.taobaocdn.com/tps/i3/T1tkB4XcXqXXXXXXXX-111-152.gif") left -999em no-repeat;}
+.help-a{margin:0 3px;background-position:0 -233px;padding:1px 9px;zoom:1}
+.help-txt-detail{width:410px;color:#666;padding:5px;border:1px solid #b0d2ff;background-color:#e8f2fe;}
+.help-txt-detail p{line-height:1.6;padding:5px 15px;border:1px solid #fff;background-color:#fff;}
+.help-txt-detail,.help p{-moz-border-radius:3px;-webkit-border-radius:3px;}
+.help-txt-detail b{width:16px;height:8px;background-position:right top;position:absolute;top:-7px;left:330px;display:block;overflow:hidden}
+.price{width:300px}
+.price b{left:30px}
